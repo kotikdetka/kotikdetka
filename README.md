@@ -1,10 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=kotik&fontSize=80&fontAlignY=38&desc=telegram%20dev%20%F0%9F%90%B1&descAlignY=58&descSize=22&fontColor=fff&animation=fadeIn&stroke=7DF9FF&strokeWidth=2" width="100%" />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=kotik&fontSize=72&fontAlignY=36&desc=telegram%20dev%20%F0%9F%90%B1&descAlignY=58&descSize=20&fontColor=fff&animation=fadeIn" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7DF9FF&center=true&vCenter=true&width=540&lines=Telegram+bots+%F0%9F%A4%96;Mini+Apps+%26+WebApps+%F0%9F%93%B1;Websites+with+animations+%F0%9F%8C%90;Backend+%26+API+%E2%9A%99%EF%B8%8F;Open+to+orders+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=7DF9FF&center=true&vCenter=true&width=580&lines=Telegram+bots+%F0%9F%A4%96;Mini+Apps+%26+WebApps+%F0%9F%93%B1;Websites+with+animations+%F0%9F%8C%90;Backend+%26+API+%E2%9A%99%EF%B8%8F;From+idea+to+deploy+%F0%9F%9A%80;Open+to+orders+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -14,19 +12,20 @@
 &nbsp;
 [![Website](https://img.shields.io/badge/kotik.zip-000?style=flat-square&logo=safari&logoColor=white)](https://kotik.zip)
 &nbsp;
-![Status](https://img.shields.io/badge/ОТКРЫТ%20К%20ЗАКАЗАМ-00c853?style=flat-square)
+![Status](https://img.shields.io/badge/%E2%9C%A8%20%D0%9E%D0%A2%D0%9A%D0%A0%D0%AB%D0%A2%20%D0%9A%20%D0%97%D0%90%D0%9A%D0%90%D0%97%D0%90%D0%9C-00c853?style=flat-square)
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 👋 Привет
 
 Делаю ботов, сайты и мини-приложения — **от идеи до деплоя на сервер**.  
 Быстро, аккуратно, с анимациями. Без воды, сразу к делу.
 
-```
-python
+```python
 >>> skills = ["Telegram bots", "Mini Apps", "Websites", "Backend & API"]
 >>> for s in skills: print(f"  ✦ {s}")
 
@@ -36,9 +35,13 @@ python
   ✦ Backend & API
 ```
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
 ## 🛠 Стек
+
+<div align="center">
 
 <table>
 <tr>
@@ -49,7 +52,7 @@ python
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TG WebApp](https://img.shields.io/badge/TG%20WebApp-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
@@ -75,10 +78,23 @@ python
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Certbot](https://img.shields.io/badge/Certbot-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🏆 Трофеи
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kotikdetka&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
+</div>
 
 ---
 
@@ -86,14 +102,22 @@ python
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kotikdetka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7df9ff&icon_color=7df9ff&text_color=ffffff&ring_color=7df9ff" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kotikdetka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7df9ff&icon_color=7df9ff&text_color=ffffff&ring_color=7df9ff&count_private=true" />
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotikdetka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7df9ff&text_color=ffffff" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotikdetka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7df9ff&text_color=ffffff&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kotikdetka&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kotikdetka&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF" />
 
+</div>
+
+---
+
+## 📈 Активность
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kotikdetka&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7df9ff&line=7df9ff&point=ffffff&area=true&area_color=7df9ff" width="100%" />
 </div>
 
 ---
@@ -101,7 +125,11 @@ python
 ## 🐍 Контрибуции
 
 <div align="center">
-  <img src="https://github.com/kotikdetka/kotikdetka/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kotikdetka/kotikdetka/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kotikdetka/kotikdetka/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/kotikdetka/kotikdetka/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
@@ -118,4 +146,4 @@ python
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%" />
