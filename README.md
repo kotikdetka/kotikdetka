@@ -1,39 +1,48 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=kotik&fontSize=80&fontAlignY=38&desc=telegram%20dev%20%F0%9F%90%B1&descAlignY=58&descSize=22&fontColor=fff&animation=fadeIn&stroke=7DF9FF&strokeWidth=2" width="100%" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=7DF9FF&center=true&vCenter=true&width=580&lines=Telegram+bots+%F0%9F%A4%96;Mini+Apps+%26+WebApps+%F0%9F%93%B1;Websites+with+animations+%F0%9F%8C%90;Backend+%26+API+%E2%9A%99%EF%B8%8F;From+idea+to+deploy+%F0%9F%9A%80;Open+to+orders+%E2%9C%A8" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=220&section=header&text=kotik&fontSize=90&fontAlignY=45&desc=telegram%20%2F%20web%20%2F%20backend&descAlignY=65&descSize=20&fontColor=fff&animation=fadeIn" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kotikdetka&color=7df9ff&style=flat-square&label=views)
-&nbsp;
-[![Telegram](https://img.shields.io/badge/@FAME__KOTIK-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/FAME_KOTIK)
-&nbsp;
-[![Website](https://img.shields.io/badge/kotik.zip-000?style=flat-square&logo=safari&logoColor=white)](https://kotik.zip)
-&nbsp;
-![Status](https://img.shields.io/badge/%E2%9C%A8%20%D0%9E%D0%A2%D0%9A%D0%A0%D0%AB%D0%A2%20%D0%9A%20%D0%97%D0%90%D0%9A%D0%90%D0%97%D0%90%D0%9C-00c853?style=flat-square)
+<a href="https://t.me/FAME_KOTIK">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=600&color=7DF9FF&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+Telegram+bots;%F0%9F%93%B1+Mini+Apps+%26+WebApps;%F0%9F%8C%90+Websites+with+animations;%E2%9A%99%EF%B8%8F+Backend+%26+API;%F0%9F%9A%80+From+idea+to+deploy;%E2%9C%A8+Open+to+orders+%E2%80%94+@FAME_KOTIK" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![Telegram](https://img.shields.io/badge/@FAME__KOTIK-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FAME_KOTIK)
+[![Website](https://img.shields.io/badge/kotik.zip-000?style=for-the-badge&logo=safari&logoColor=white)](https://kotik.zip)
+![Views](https://komarev.com/ghpvc/?username=kotikdetka&color=7df9ff&style=for-the-badge&label=VIEWS)
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👋 Привет
+<br/>
 
-Делаю ботов, сайты и мини-приложения — **от идеи до деплоя на сервер**.  
-Быстро, аккуратно, с анимациями. Без воды, сразу к делу.
+<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```python
->>> skills = ["Telegram bots", "Mini Apps", "Websites", "Backend & API"]
->>> for s in skills: print(f"  ✦ {s}")
+### 🐱 Кто я
 
-  ✦ Telegram bots
-  ✦ Mini Apps
-  ✦ Websites
-  ✦ Backend & API
+```ts
+const kotik = {
+  name:     "kotik",
+  location: "Russia 🇷🇺",
+  telegram: "@FAME_KOTIK",
+  website:  "kotik.zip",
+
+  focus: [
+    "Telegram bots",
+    "Mini Apps",
+    "Websites",
+    "Backend & API",
+  ],
+
+  status: "✨ Open to orders",
+};
 ```
+
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -42,10 +51,6 @@
 ## 🛠 Стек
 
 <div align="center">
-
-<table>
-<tr>
-<td valign="top" width="33%">
 
 **Frontend**
 
@@ -56,8 +61,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TG WebApp](https://img.shields.io/badge/TG%20WebApp-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+<br/>
 
 **Backend**
 
@@ -68,8 +72,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+<br/>
 
 **DevOps**
 
@@ -80,13 +83,25 @@
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Certbot](https://img.shields.io/badge/Certbot-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 📊 Статистика
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kotikdetka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7df9ff&icon_color=7df9ff&text_color=ffffff&ring_color=7df9ff&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotikdetka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7df9ff&text_color=ffffff&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kotikdetka&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=888888" />
+
+</div>
 
 ---
 
@@ -98,38 +113,20 @@
 
 ---
 
-## 📊 Статистика
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kotikdetka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7df9ff&icon_color=7df9ff&text_color=ffffff&ring_color=7df9ff&count_private=true" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotikdetka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7df9ff&text_color=ffffff&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kotikdetka&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF" />
-
-</div>
-
----
-
 ## 📈 Активность
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kotikdetka&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7df9ff&line=7df9ff&point=ffffff&area=true&area_color=7df9ff" width="100%" />
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-## 🐍 Контрибуции
+## 💬 Цитата
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kotikdetka/kotikdetka/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kotikdetka/kotikdetka/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/kotikdetka/kotikdetka/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
@@ -137,13 +134,16 @@
 ## 📬 Связаться
 
 <div align="center">
+<br/>
 
-[![Telegram](https://img.shields.io/badge/Написать%20в%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FAME_KOTIK)
-&nbsp;
-[![Website](https://img.shields.io/badge/kotik.zip-000000?style=for-the-badge&logo=safari&logoColor=white)](https://kotik.zip)
+[![Telegram](https://img.shields.io/badge/Написать%20в%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a2e)](https://t.me/FAME_KOTIK)
+&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/kotik.zip-7DF9FF?style=for-the-badge&logo=safari&logoColor=black&labelColor=1a1a2e)](https://kotik.zip)
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=555555&center=true&vCenter=true&width=400&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+kotik" />
 
 </div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%" />
