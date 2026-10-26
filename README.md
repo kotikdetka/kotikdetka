@@ -20,7 +20,9 @@
 
 <br/>
 
-<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<table width="100%" border="0">
+<tr>
+<td width="55%" valign="top">
 
 ### 🐱 Кто я
 
@@ -42,7 +44,14 @@ const kotik = {
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" valign="middle" align="center">
+
+<img src="https://media.giphy.com/media/CvGf22Z8iEQXfNVjhv/giphy.gif" width="100%" style="border-radius:12px" />
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
